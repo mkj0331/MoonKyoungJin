@@ -3,8 +3,6 @@
 
 *2024.08.05 - 2024.08.30*
 
-*Github:* https://github.com/mkj0331/MoonKyoungJin
-
 ### [인원]
 
 - 수학과 학부생 4명
